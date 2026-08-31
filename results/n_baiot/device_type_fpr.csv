@@ -1,0 +1,16 @@
+model,device_type,false_flags,total_windows,fpr
+Baseline,doorbell,189,8865,0.02131979695431472
+Baseline,thermostat,0,1312,0.0
+Baseline,baby_monitor,1,17524,5.7064597123944306e-05
+Baseline,security_camera,56,22678,0.0024693535585148603
+Baseline,webcam,1261,5215,0.2418024928092042
+Drift Simulation,doorbell,511,35460,0.014410603496897913
+Drift Simulation,thermostat,9,5246,0.001715592832634388
+Drift Simulation,baby_monitor,4,70096,5.7064597123944306e-05
+Drift Simulation,security_camera,1196,90714,0.013184293493837776
+Drift Simulation,webcam,1670,20860,0.0800575263662512
+Adaptive Fisher-Weighted Z,doorbell,499,35460,0.0140721940214326
+Adaptive Fisher-Weighted Z,thermostat,9,5246,0.001715592832634388
+Adaptive Fisher-Weighted Z,baby_monitor,56,70096,0.0007989043597352203
+Adaptive Fisher-Weighted Z,security_camera,627,90714,0.006911832793174152
+Adaptive Fisher-Weighted Z,webcam,1380,20860,0.06615532118887824

@@ -1,0 +1,161 @@
+model,device_name,device_type,source_file,attack_family,attack_type,raw_detected_windows,detected_windows,total_windows,raw_detection_rate,detection_rate
+Drift Simulation,device_1,doorbell,1.gafgyt.combo.csv,Gafgyt,combo,47775,47774,47775,1.0,0.9999790685504971
+Drift Simulation,device_1,doorbell,1.gafgyt.junk.csv,Gafgyt,junk,23255,23254,23255,1.0,0.9999569984949473
+Drift Simulation,device_1,doorbell,1.gafgyt.scan.csv,Gafgyt,scan,23880,23879,23880,1.0,0.9999581239530988
+Drift Simulation,device_1,doorbell,1.gafgyt.tcp.csv,Gafgyt,tcp,73713,73712,73713,1.0,0.9999864338719087
+Drift Simulation,device_1,doorbell,1.gafgyt.udp.csv,Gafgyt,udp,84698,84699,84700,0.9999763872491145,0.9999881936245573
+Drift Simulation,device_1,doorbell,1.mirai.ack.csv,Mirai,ack,81756,81755,81756,1.0,0.9999877684818239
+Drift Simulation,device_1,doorbell,1.mirai.scan.csv,Mirai,scan,86148,86147,86148,1.0,0.9999883920694619
+Drift Simulation,device_1,doorbell,1.mirai.syn.csv,Mirai,syn,98059,98058,98059,1.0,0.9999898020579447
+Drift Simulation,device_1,doorbell,1.mirai.udp.csv,Mirai,udp,190132,190131,190132,1.0,0.9999947404960764
+Drift Simulation,device_1,doorbell,1.mirai.udpplain.csv,Mirai,udpplain,65586,65585,65586,1.0,0.9999847528435947
+Drift Simulation,device_2,thermostat,2.gafgyt.combo.csv,Gafgyt,combo,42406,42403,42410,0.9999056826220231,0.9998349445885404
+Drift Simulation,device_2,thermostat,2.gafgyt.junk.csv,Gafgyt,junk,24246,24244,24250,0.9998350515463917,0.9997525773195877
+Drift Simulation,device_2,thermostat,2.gafgyt.scan.csv,Gafgyt,scan,21994,21992,21996,0.9999090743771595,0.999818148754319
+Drift Simulation,device_2,thermostat,2.gafgyt.tcp.csv,Gafgyt,tcp,76013,76012,76017,0.999947380191273,0.9999342252390913
+Drift Simulation,device_2,thermostat,2.gafgyt.udp.csv,Gafgyt,udp,83824,83828,83833,0.9998926437083249,0.9999403576157361
+Drift Simulation,device_2,thermostat,2.mirai.ack.csv,Mirai,ack,90625,90623,90628,0.9999668976475261,0.9999448294125436
+Drift Simulation,device_2,thermostat,2.mirai.scan.csv,Mirai,scan,34550,34550,34554,0.9998842391618915,0.9998842391618915
+Drift Simulation,device_2,thermostat,2.mirai.syn.csv,Mirai,syn,93443,93441,93446,0.9999678958970957,0.999946493161826
+Drift Simulation,device_2,thermostat,2.mirai.udp.csv,Mirai,udp,121184,121183,121185,0.9999917481536493,0.9999834963072988
+Drift Simulation,device_2,thermostat,2.mirai.udpplain.csv,Mirai,udpplain,69890,69889,69895,0.9999284641247586,0.9999141569497103
+Drift Simulation,device_3,doorbell,3.gafgyt.combo.csv,Gafgyt,combo,42412,42411,42412,1.0,0.9999764217674243
+Drift Simulation,device_3,doorbell,3.gafgyt.junk.csv,Gafgyt,junk,23838,23837,23838,1.0,0.9999580501719942
+Drift Simulation,device_3,doorbell,3.gafgyt.scan.csv,Gafgyt,scan,22496,22495,22496,1.0,0.999955547652916
+Drift Simulation,device_3,doorbell,3.gafgyt.tcp.csv,Gafgyt,tcp,81229,81228,81229,1.0,0.9999876891258048
+Drift Simulation,device_3,doorbell,3.gafgyt.udp.csv,Gafgyt,udp,83145,83146,83147,0.9999759462157384,0.9999879731078692
+Drift Simulation,device_4,baby_monitor,4.gafgyt.combo.csv,Gafgyt,combo,46512,46511,46522,0.9997850479343107,0.9997635527277418
+Drift Simulation,device_4,baby_monitor,4.gafgyt.junk.csv,Gafgyt,junk,22667,22666,22680,0.9994268077601411,0.9993827160493827
+Drift Simulation,device_4,baby_monitor,4.gafgyt.scan.csv,Gafgyt,scan,22283,22283,22288,0.9997756640344581,0.9997756640344581
+Drift Simulation,device_4,baby_monitor,4.gafgyt.tcp.csv,Gafgyt,tcp,74004,74056,74065,0.9991763991088909,0.9998784851144266
+Drift Simulation,device_4,baby_monitor,4.gafgyt.udp.csv,Gafgyt,udp,84544,84615,84626,0.9990310306525182,0.9998700163070451
+Drift Simulation,device_4,baby_monitor,4.mirai.ack.csv,Mirai,ack,72890,72889,72899,0.9998765415163445,0.9998628239070495
+Drift Simulation,device_4,baby_monitor,4.mirai.scan.csv,Mirai,scan,82897,82896,82897,1.0,0.99998793683728
+Drift Simulation,device_4,baby_monitor,4.mirai.syn.csv,Mirai,syn,94491,94489,94503,0.99987301990413,0.9998518565548183
+Drift Simulation,device_4,baby_monitor,4.mirai.udp.csv,Mirai,udp,173628,173627,173628,1.0,0.9999942405602783
+Drift Simulation,device_4,baby_monitor,4.mirai.udpplain.csv,Mirai,udpplain,64639,64637,64647,0.9998762510247962,0.9998453137809953
+Drift Simulation,device_5,security_camera,5.gafgyt.combo.csv,Gafgyt,combo,49099,49097,49104,0.9998981753014011,0.9998574454219615
+Drift Simulation,device_5,security_camera,5.gafgyt.junk.csv,Gafgyt,junk,24592,24590,24719,0.9948622517092115,0.9947813422873094
+Drift Simulation,device_5,security_camera,5.gafgyt.scan.csv,Gafgyt,scan,23437,23436,23438,0.9999573342435362,0.9999146684870722
+Drift Simulation,device_5,security_camera,5.gafgyt.tcp.csv,Gafgyt,tcp,83537,83595,83608,0.9991507989666061,0.9998445124868434
+Drift Simulation,device_5,security_camera,5.gafgyt.udp.csv,Gafgyt,udp,83132,83199,83209,0.9990746193320434,0.9998798206924732
+Drift Simulation,device_5,security_camera,5.mirai.ack.csv,Mirai,ack,48444,48443,48444,1.0,0.9999793576087854
+Drift Simulation,device_5,security_camera,5.mirai.scan.csv,Mirai,scan,77425,77424,77425,1.0,0.999987084275105
+Drift Simulation,device_5,security_camera,5.mirai.syn.csv,Mirai,syn,52595,52596,52597,0.9999619750175865,0.9999809875087933
+Drift Simulation,device_5,security_camera,5.mirai.udp.csv,Mirai,udp,124991,124990,124999,0.9999359994879959,0.9999279994239954
+Drift Simulation,device_5,security_camera,5.mirai.udpplain.csv,Mirai,udpplain,45344,45344,45345,0.9999779468519131,0.9999779468519131
+Drift Simulation,device_6,security_camera,6.gafgyt.combo.csv,Gafgyt,combo,46017,46016,46024,0.9998479054406396,0.9998261776464453
+Drift Simulation,device_6,security_camera,6.gafgyt.junk.csv,Gafgyt,junk,23252,23250,23255,0.9998709954848419,0.9997849924747366
+Drift Simulation,device_6,security_camera,6.gafgyt.scan.csv,Gafgyt,scan,22715,22713,22718,0.9998679461220178,0.999779910203363
+Drift Simulation,device_6,security_camera,6.gafgyt.tcp.csv,Gafgyt,tcp,71440,71496,71510,0.9990211159278423,0.9998042231855685
+Drift Simulation,device_6,security_camera,6.gafgyt.udp.csv,Gafgyt,udp,83645,83714,83727,0.9990206265601299,0.999844733479045
+Drift Simulation,device_6,security_camera,6.mirai.ack.csv,Mirai,ack,46398,46397,46398,1.0,0.9999784473468684
+Drift Simulation,device_6,security_camera,6.mirai.scan.csv,Mirai,scan,77677,77676,77677,1.0,0.9999871261763457
+Drift Simulation,device_6,security_camera,6.mirai.syn.csv,Mirai,syn,49480,49480,49481,0.9999797902225096,0.9999797902225096
+Drift Simulation,device_6,security_camera,6.mirai.udp.csv,Mirai,udp,126880,126879,126887,0.9999448328039909,0.9999369517759896
+Drift Simulation,device_6,security_camera,6.mirai.udpplain.csv,Mirai,udpplain,43028,43027,43028,1.0,0.9999767593195129
+Drift Simulation,device_7,webcam,7.gafgyt.combo.csv,Gafgyt,combo,46936,46935,46936,1.0,0.9999786943923641
+Drift Simulation,device_7,webcam,7.gafgyt.junk.csv,Gafgyt,junk,22644,22643,22644,1.0,0.9999558381911323
+Drift Simulation,device_7,webcam,7.gafgyt.scan.csv,Gafgyt,scan,22159,22158,22159,1.0,0.9999548716097297
+Drift Simulation,device_7,webcam,7.gafgyt.tcp.csv,Gafgyt,tcp,78227,78226,78227,1.0,0.9999872166898897
+Drift Simulation,device_7,webcam,7.gafgyt.udp.csv,Gafgyt,udp,88494,88493,88494,1.0,0.9999886997988564
+Drift Simulation,device_8,security_camera,8.gafgyt.combo.csv,Gafgyt,combo,43426,43425,43427,0.9999769728509913,0.9999539457019826
+Drift Simulation,device_8,security_camera,8.gafgyt.junk.csv,Gafgyt,junk,22856,22855,22864,0.9996501049685095,0.9996063680895731
+Drift Simulation,device_8,security_camera,8.gafgyt.scan.csv,Gafgyt,scan,22257,22255,22260,0.9998652291105121,0.9997753818508536
+Drift Simulation,device_8,security_camera,8.gafgyt.tcp.csv,Gafgyt,tcp,70986,71041,71053,0.9990570419264493,0.9998311119868267
+Drift Simulation,device_8,security_camera,8.gafgyt.udp.csv,Gafgyt,udp,82894,82970,82976,0.9990117624373313,0.9999276899344389
+Drift Simulation,device_8,security_camera,8.mirai.ack.csv,Mirai,ack,89181,89179,89184,0.9999663616792249,0.9999439361320416
+Drift Simulation,device_8,security_camera,8.mirai.scan.csv,Mirai,scan,36744,36743,36744,1.0,0.9999727846723274
+Drift Simulation,device_8,security_camera,8.mirai.syn.csv,Mirai,syn,100568,100566,100572,0.9999602274987074,0.9999403412480611
+Drift Simulation,device_8,security_camera,8.mirai.udp.csv,Mirai,udp,121504,121503,121504,1.0,0.9999917698182776
+Drift Simulation,device_8,security_camera,8.mirai.udpplain.csv,Mirai,udpplain,62588,62587,62596,0.9998721963064733,0.9998562208447824
+Drift Simulation,device_9,security_camera,9.gafgyt.combo.csv,Gafgyt,combo,47504,47503,47519,0.9996843367915992,0.9996632925777058
+Drift Simulation,device_9,security_camera,9.gafgyt.junk.csv,Gafgyt,junk,21929,21927,21931,0.999908804888058,0.999817609776116
+Drift Simulation,device_9,security_camera,9.gafgyt.scan.csv,Gafgyt,scan,22853,22854,22858,0.9997812582028174,0.9998250065622539
+Drift Simulation,device_9,security_camera,9.gafgyt.tcp.csv,Gafgyt,tcp,78386,78447,78460,0.999056844251848,0.999834310476676
+Drift Simulation,device_9,security_camera,9.gafgyt.udp.csv,Gafgyt,udp,82295,82372,82384,0.9989196931442998,0.9998543406486696
+Drift Simulation,device_9,security_camera,9.mirai.ack.csv,Mirai,ack,85741,85740,85750,0.9998950437317784,0.9998833819241982
+Drift Simulation,device_9,security_camera,9.mirai.scan.csv,Mirai,scan,34939,34939,34940,0.9999713795077275,0.9999713795077275
+Drift Simulation,device_9,security_camera,9.mirai.syn.csv,Mirai,syn,97973,97971,97984,0.9998877367733507,0.9998673252775964
+Drift Simulation,device_9,security_camera,9.mirai.udp.csv,Mirai,udp,125668,125667,125668,1.0,0.9999920425247477
+Drift Simulation,device_9,security_camera,9.mirai.udpplain.csv,Mirai,udpplain,67546,67545,67549,0.9999555877955262,0.9999407837273683
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.gafgyt.combo.csv,Gafgyt,combo,47771,47770,47775,0.9999162742019885,0.9998953427524856
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.gafgyt.junk.csv,Gafgyt,junk,23252,23250,23255,0.9998709954848419,0.9997849924747366
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.gafgyt.scan.csv,Gafgyt,scan,23876,23875,23880,0.9998324958123953,0.9997906197654941
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.gafgyt.tcp.csv,Gafgyt,tcp,73711,73709,73713,0.9999728677438172,0.9999457354876344
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.gafgyt.udp.csv,Gafgyt,udp,84691,84696,84700,0.9998937426210154,0.9999527744982291
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.mirai.ack.csv,Mirai,ack,81756,81755,81756,1.0,0.9999877684818239
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.mirai.scan.csv,Mirai,scan,86147,86147,86148,0.9999883920694619,0.9999883920694619
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.mirai.syn.csv,Mirai,syn,98057,98056,98059,0.9999796041158894,0.9999694061738341
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.mirai.udp.csv,Mirai,udp,190130,190129,190132,0.9999894809921528,0.9999842214882292
+Adaptive Fisher-Weighted Z,device_1,doorbell,1.mirai.udpplain.csv,Mirai,udpplain,65586,65585,65586,1.0,0.9999847528435947
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.gafgyt.combo.csv,Gafgyt,combo,42407,42406,42410,0.9999292619665173,0.9999056826220231
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.gafgyt.junk.csv,Gafgyt,junk,24246,24244,24250,0.9998350515463917,0.9997525773195877
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.gafgyt.scan.csv,Gafgyt,scan,21994,21992,21996,0.9999090743771595,0.999818148754319
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.gafgyt.tcp.csv,Gafgyt,tcp,76013,76012,76017,0.999947380191273,0.9999342252390913
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.gafgyt.udp.csv,Gafgyt,udp,83824,83828,83833,0.9998926437083249,0.9999403576157361
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.mirai.ack.csv,Mirai,ack,90625,90623,90628,0.9999668976475261,0.9999448294125436
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.mirai.scan.csv,Mirai,scan,34553,34553,34554,0.9999710597904728,0.9999710597904728
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.mirai.syn.csv,Mirai,syn,93443,93441,93446,0.9999678958970957,0.999946493161826
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.mirai.udp.csv,Mirai,udp,121185,121184,121185,1.0,0.9999917481536493
+Adaptive Fisher-Weighted Z,device_2,thermostat,2.mirai.udpplain.csv,Mirai,udpplain,69891,69889,69895,0.9999427712998068,0.9999141569497103
+Adaptive Fisher-Weighted Z,device_3,doorbell,3.gafgyt.combo.csv,Gafgyt,combo,42412,42411,42412,1.0,0.9999764217674243
+Adaptive Fisher-Weighted Z,device_3,doorbell,3.gafgyt.junk.csv,Gafgyt,junk,23838,23837,23838,1.0,0.9999580501719942
+Adaptive Fisher-Weighted Z,device_3,doorbell,3.gafgyt.scan.csv,Gafgyt,scan,22496,22495,22496,1.0,0.999955547652916
+Adaptive Fisher-Weighted Z,device_3,doorbell,3.gafgyt.tcp.csv,Gafgyt,tcp,81229,81228,81229,1.0,0.9999876891258048
+Adaptive Fisher-Weighted Z,device_3,doorbell,3.gafgyt.udp.csv,Gafgyt,udp,83145,83146,83147,0.9999759462157384,0.9999879731078692
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.gafgyt.combo.csv,Gafgyt,combo,46513,46512,46522,0.9998065431408796,0.9997850479343107
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.gafgyt.junk.csv,Gafgyt,junk,22669,22668,22680,0.9995149911816579,0.9994708994708995
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.gafgyt.scan.csv,Gafgyt,scan,22287,22287,22288,0.9999551328068916,0.9999551328068916
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.gafgyt.tcp.csv,Gafgyt,tcp,74005,74057,74065,0.9991899007628434,0.9998919867683791
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.gafgyt.udp.csv,Gafgyt,udp,84547,84617,84626,0.9990664807505968,0.9998936497057642
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.mirai.ack.csv,Mirai,ack,72891,72889,72899,0.9998902591256396,0.9998628239070495
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.mirai.scan.csv,Mirai,scan,82897,82896,82897,1.0,0.99998793683728
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.mirai.syn.csv,Mirai,syn,94491,94489,94503,0.99987301990413,0.9998518565548183
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.mirai.udp.csv,Mirai,udp,173628,173627,173628,1.0,0.9999942405602783
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,4.mirai.udpplain.csv,Mirai,udpplain,64640,64639,64647,0.9998917196466967,0.9998762510247962
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.gafgyt.combo.csv,Gafgyt,combo,49101,49100,49104,0.9999389051808406,0.9999185402411209
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.gafgyt.junk.csv,Gafgyt,junk,24660,24658,24719,0.9976131720538857,0.9975322626319835
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.gafgyt.scan.csv,Gafgyt,scan,23438,23437,23438,1.0,0.9999573342435362
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.gafgyt.tcp.csv,Gafgyt,tcp,83543,83597,83608,0.9992225624342168,0.9998684336427136
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.gafgyt.udp.csv,Gafgyt,udp,83137,83201,83209,0.9991347089858068,0.9999038565539785
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.mirai.ack.csv,Mirai,ack,48444,48443,48444,1.0,0.9999793576087854
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.mirai.scan.csv,Mirai,scan,77425,77424,77425,1.0,0.999987084275105
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.mirai.syn.csv,Mirai,syn,52596,52596,52597,0.9999809875087933,0.9999809875087933
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.mirai.udp.csv,Mirai,udp,124992,124991,124999,0.9999439995519964,0.9999359994879959
+Adaptive Fisher-Weighted Z,device_5,security_camera,5.mirai.udpplain.csv,Mirai,udpplain,45345,45344,45345,1.0,0.9999779468519131
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.gafgyt.combo.csv,Gafgyt,combo,46018,46017,46024,0.999869633234834,0.9998479054406396
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.gafgyt.junk.csv,Gafgyt,junk,23253,23252,23255,0.9999139969898947,0.9998709954848419
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.gafgyt.scan.csv,Gafgyt,scan,22717,22717,22718,0.9999559820406726,0.9999559820406726
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.gafgyt.tcp.csv,Gafgyt,tcp,71447,71499,71510,0.9991190043350581,0.9998461753600895
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.gafgyt.udp.csv,Gafgyt,udp,83648,83715,83727,0.999056457295735,0.99985667705758
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.mirai.ack.csv,Mirai,ack,46398,46397,46398,1.0,0.9999784473468684
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.mirai.scan.csv,Mirai,scan,77677,77676,77677,1.0,0.9999871261763457
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.mirai.syn.csv,Mirai,syn,49481,49480,49481,1.0,0.9999797902225096
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.mirai.udp.csv,Mirai,udp,126882,126881,126887,0.9999605948599936,0.9999527138319922
+Adaptive Fisher-Weighted Z,device_6,security_camera,6.mirai.udpplain.csv,Mirai,udpplain,43028,43027,43028,1.0,0.9999767593195129
+Adaptive Fisher-Weighted Z,device_7,webcam,7.gafgyt.combo.csv,Gafgyt,combo,46930,46929,46936,0.9998721663541844,0.9998508607465485
+Adaptive Fisher-Weighted Z,device_7,webcam,7.gafgyt.junk.csv,Gafgyt,junk,22641,22640,22644,0.999867514573397,0.9998233527645293
+Adaptive Fisher-Weighted Z,device_7,webcam,7.gafgyt.scan.csv,Gafgyt,scan,22157,22155,22159,0.9999097432194594,0.9998194864389187
+Adaptive Fisher-Weighted Z,device_7,webcam,7.gafgyt.tcp.csv,Gafgyt,tcp,78199,78222,78227,0.9996420673169111,0.9999360834494484
+Adaptive Fisher-Weighted Z,device_7,webcam,7.gafgyt.udp.csv,Gafgyt,udp,88441,88487,88494,0.9994010893393902,0.999920898591995
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.gafgyt.combo.csv,Gafgyt,combo,43427,43426,43427,1.0,0.9999769728509913
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.gafgyt.junk.csv,Gafgyt,junk,22857,22856,22864,0.9996938418474458,0.9996501049685095
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.gafgyt.scan.csv,Gafgyt,scan,20870,21179,22260,0.9375561545372866,0.9514375561545373
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.gafgyt.tcp.csv,Gafgyt,tcp,70989,71044,71053,0.9990992639297426,0.99987333399012
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.gafgyt.udp.csv,Gafgyt,udp,82897,82970,82976,0.9990479174701118,0.9999276899344389
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.mirai.ack.csv,Mirai,ack,89181,89179,89184,0.9999663616792249,0.9999439361320416
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.mirai.scan.csv,Mirai,scan,36743,36743,36744,0.9999727846723274,0.9999727846723274
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.mirai.syn.csv,Mirai,syn,100569,100568,100572,0.9999701706240306,0.9999602274987074
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.mirai.udp.csv,Mirai,udp,121504,121503,121504,1.0,0.9999917698182776
+Adaptive Fisher-Weighted Z,device_8,security_camera,8.mirai.udpplain.csv,Mirai,udpplain,62588,62587,62596,0.9998721963064733,0.9998562208447824
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.gafgyt.combo.csv,Gafgyt,combo,47506,47505,47519,0.9997264252193859,0.9997053810054926
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.gafgyt.junk.csv,Gafgyt,junk,21930,21930,21931,0.999954402444029,0.999954402444029
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.gafgyt.scan.csv,Gafgyt,scan,22856,22856,22858,0.9999125032811269,0.9999125032811269
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.gafgyt.tcp.csv,Gafgyt,tcp,78389,78450,78460,0.999095080295692,0.99987254652052
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.gafgyt.udp.csv,Gafgyt,udp,82299,82374,82384,0.99896824626141,0.9998786172072247
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.mirai.ack.csv,Mirai,ack,85741,85740,85750,0.9998950437317784,0.9998833819241982
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.mirai.scan.csv,Mirai,scan,34940,34939,34940,1.0,0.9999713795077275
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.mirai.syn.csv,Mirai,syn,97974,97973,97984,0.999897942521228,0.9998877367733507
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.mirai.udp.csv,Mirai,udp,125668,125667,125668,1.0,0.9999920425247477
+Adaptive Fisher-Weighted Z,device_9,security_camera,9.mirai.udpplain.csv,Mirai,udpplain,67546,67545,67549,0.9999555877955262,0.9999407837273683

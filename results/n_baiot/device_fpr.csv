@@ -1,0 +1,28 @@
+model,device_name,device_type,false_flags,total_windows,fpr
+Baseline,device_1,doorbell,13,4955,0.0026236125126135215
+Baseline,device_2,thermostat,0,1312,0.0
+Baseline,device_3,doorbell,176,3910,0.04501278772378517
+Baseline,device_4,baby_monitor,1,17524,5.7064597123944306e-05
+Baseline,device_5,security_camera,4,6215,0.0006436041834271923
+Baseline,device_6,security_camera,12,9851,0.001218150441579535
+Baseline,device_7,webcam,1261,5215,0.2418024928092042
+Baseline,device_8,security_camera,27,4659,0.005795235028976175
+Baseline,device_9,security_camera,13,1953,0.006656426011264721
+Drift Simulation,device_1,doorbell,134,19820,0.006760847628657921
+Drift Simulation,device_2,thermostat,9,5246,0.001715592832634388
+Drift Simulation,device_3,doorbell,377,15640,0.024104859335038364
+Drift Simulation,device_4,baby_monitor,4,70096,5.7064597123944306e-05
+Drift Simulation,device_5,security_camera,45,24862,0.0018099911511543722
+Drift Simulation,device_6,security_camera,41,39406,0.0010404506927879002
+Drift Simulation,device_7,webcam,1670,20860,0.0800575263662512
+Drift Simulation,device_8,security_camera,1074,18634,0.05763657829773532
+Drift Simulation,device_9,security_camera,36,7812,0.004608294930875576
+Adaptive Fisher-Weighted Z,device_1,doorbell,122,19820,0.00615539858728557
+Adaptive Fisher-Weighted Z,device_2,thermostat,9,5246,0.001715592832634388
+Adaptive Fisher-Weighted Z,device_3,doorbell,377,15640,0.024104859335038364
+Adaptive Fisher-Weighted Z,device_4,baby_monitor,56,70096,0.0007989043597352203
+Adaptive Fisher-Weighted Z,device_5,security_camera,79,24862,0.0031775400209154534
+Adaptive Fisher-Weighted Z,device_6,security_camera,76,39406,0.0019286403085824494
+Adaptive Fisher-Weighted Z,device_7,webcam,1380,20860,0.06615532118887824
+Adaptive Fisher-Weighted Z,device_8,security_camera,424,18634,0.022754105398733498
+Adaptive Fisher-Weighted Z,device_9,security_camera,48,7812,0.006144393241167435

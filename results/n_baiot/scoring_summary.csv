@@ -1,0 +1,6 @@
+device_type,scoring_method,weight_source,training_rows,threshold,validation_fpr,attack_micro_detection,attack_macro_detection,worst_group_detection
+doorbell,Fisher-Weighted Z,device-type attack tuning,26594,2.013717079625576,0.001128158844765343,1.0,1.0,1.0
+thermostat,Fisher-Weighted Z,device-type attack tuning,3933,2.0673875919418596,0.0015255530129672007,0.9986,0.9985999999999999,0.998
+baby_monitor,Fisher-Weighted Z,device-type attack tuning,52572,4.409098593967598,0.0,0.9988,0.9987999999999999,0.998
+security_camera,Fisher-Weighted Z,device-type attack tuning,68033,2.394712615196284,8.819508753362438e-05,0.99945,0.9994500000000001,0.998
+webcam,Fisher-Weighted Z,device-type attack tuning,15645,1.9371171570769246,0.005752636625119847,1.0,1.0,1.0

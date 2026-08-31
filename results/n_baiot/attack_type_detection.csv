@@ -1,0 +1,21 @@
+model,attack_family,attack_type,detected_windows,total_windows,detection_rate
+Drift Simulation,Gafgyt,combo,412075,412129,0.999868973064259
+Drift Simulation,Gafgyt,junk,209266,209436,0.9991882961859471
+Drift Simulation,Gafgyt,scan,204065,204093,0.9998628076416144
+Drift Simulation,Gafgyt,tcp,687813,687882,0.999899692098354
+Drift Simulation,Gafgyt,udp,757036,757096,0.9999207498124412
+Drift Simulation,Mirai,ack,515026,515059,0.9999359296701931
+Drift Simulation,Mirai,scan,430375,430385,0.9999767649894862
+Drift Simulation,Mirai,syn,586601,586642,0.9999301106978361
+Drift Simulation,Mirai,udp,983980,984003,0.9999766260875221
+Drift Simulation,Mirai,udpplain,418614,418646,0.9999235631058221
+Adaptive Fisher-Weighted Z,Gafgyt,combo,412076,412129,0.999871399488995
+Adaptive Fisher-Weighted Z,Gafgyt,junk,209335,209436,0.9995177524398862
+Adaptive Fisher-Weighted Z,Gafgyt,scan,202993,204093,0.9946103002062785
+Adaptive Fisher-Weighted Z,Gafgyt,tcp,687818,687882,0.9999069607868791
+Adaptive Fisher-Weighted Z,Gafgyt,udp,757034,757096,0.9999181081395226
+Adaptive Fisher-Weighted Z,Mirai,ack,515026,515059,0.9999359296701931
+Adaptive Fisher-Weighted Z,Mirai,scan,430378,430385,0.9999837354926403
+Adaptive Fisher-Weighted Z,Mirai,syn,586603,586642,0.999933519932088
+Adaptive Fisher-Weighted Z,Mirai,udp,983982,984003,0.9999786586016506
+Adaptive Fisher-Weighted Z,Mirai,udpplain,418616,418646,0.9999283404117082

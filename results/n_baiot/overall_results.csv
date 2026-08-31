@@ -1,0 +1,4 @@
+dataset,experiment,benign_windows,fpr,attack_windows,detection_rate
+N-BaIoT,Baseline,55594,0.02710724178868223,,
+N-BaIoT,Drift Simulation,222376,0.015244450840018707,5205371.0,0.9999001031818866
+N-BaIoT,Adaptive Fisher-Weighted Z,222376,0.011561499442385869,5205371.0,0.9997099150089398

@@ -1,0 +1,6 @@
+device_type,scoring_method,weight_source,training_rows,threshold,validation_fpr,attack_micro_detection,attack_macro_detection,worst_group_detection,worst_client_detection,worst_attack_type_detection
+sensor,Fisher-Weighted Z,device-type attack tuning,1757,1.3710739198649209,0.003861003861003861,0.8818770226537217,0.8664168929859896,0.0,0.8383838383838383,0.0
+camera,Fisher-Weighted Z,device-type attack tuning,753,1.5180580700909438,0.0,0.9039145907473309,0.8934623006446946,0.0,0.8932038834951457,0.0
+edge-infrastructure,Fisher-Weighted Z,device-type attack tuning,251,3.9044042785892588,0.0,1.0,1.0,1.0,1.0,1.0
+smart-plug,Fisher-Weighted Z,device-type attack tuning,1506,1.89591180720714,0.02252252252252252,0.3333333333333333,0.5336809856809857,0.0,0.22727272727272727,0.0
+network-device,Fisher-Weighted Z,device-type attack tuning,251,2.133570071491927,0.0,1.0,1.0,1.0,1.0,1.0

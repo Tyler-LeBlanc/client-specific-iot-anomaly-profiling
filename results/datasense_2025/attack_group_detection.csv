@@ -1,0 +1,1093 @@
+model,device_name,device_type,attack_family,attack_type,raw_detected_windows,confirmed_windows,total_windows,event_detected,confirmation_delay_windows,raw_detection_rate,confirmed_detection_rate
+Drift Simulation,edge1,edge-infrastructure,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-proximity,smart-plug,ddos,synonymousip-flood-port-80,2,0,9,False,,0.2222222222222222,0.0
+Drift Simulation,ultrasonic-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-proximity,smart-plug,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,plug-rfid,smart-plug,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,switch,network-device,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,edge1,edge-infrastructure,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,myq-camera,camera,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,sound-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,syn-flood-port-22,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,wisenet-camera,camera,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-proximity,smart-plug,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-proximity,smart-plug,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-vibration,smart-plug,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,syn-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,ultrasonic-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,tcp-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,sound-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,syn-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,soil-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-mqtt,smart-plug,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,syn-flood-port-557,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,ap,network-device,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,tcp-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,myq-camera,camera,dos,tcp-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,myq-camera,camera,dos,syn-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,yi-camera,camera,dos,tcp-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,yi-camera,camera,dos,tcp-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,ap,network-device,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,syn-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,wisenet-camera,camera,dos,syn-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,switch,network-device,dos,tcp-flood-port-23,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,wisenet-camera,camera,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,tcp-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,wisenet-camera,camera,dos,tcp-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,edge1,edge-infrastructure,dos,tcp-flood-port-22,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,switch,network-device,dos,syn-flood-port-23,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,ap,network-device,dos,tcp-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,edge1,edge-infrastructure,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,syn-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Drift Simulation,wisenet-camera,camera,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-flame,smart-plug,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-vibration,smart-plug,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,vibration-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,soil-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,web,sql-injection-blind,158,157,158,True,2.0,1.0,0.9936708860759493
+Drift Simulation,yi-camera,camera,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,dos,http-flood-port-9595,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,recon,host-disc-udp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,edge1,edge-infrastructure,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,edge1,edge-infrastructure,recon,host-disc-tcp-syn-stealth,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,edge1,edge-infrastructure,recon,host-disc-arp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,edge1,edge-infrastructure,recon,host-disc-tcp-syn-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,edge1,edge-infrastructure,recon,host-disc-tcp-ack-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,recon,host-disc-udp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,recon,host-disc-arp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,recon,host-disc-tcp-syn-stealth,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,recon,host-disc-tcp-syn-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,recon,host-disc-tcp-ack-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,wisenet-camera,camera,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,wisenet-camera,camera,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,wisenet-camera,camera,recon,host-disc-tcp-ack-ping,16,16,18,True,2.0,0.8888888888888888,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,wisenet-camera,camera,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,wisenet-camera,camera,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ultrasonic-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,sound-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,water-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,dos,syn-flood-port-80,3,3,4,True,2.0,0.75,0.75
+Drift Simulation,vibration-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,weather-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-proximity,smart-plug,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,recon,host-disc-tcp-syn-stealth,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Drift Simulation,myq-camera,camera,recon,host-disc-tcp-syn-ping,16,16,17,True,2.0,0.9411764705882353,0.9411764705882353
+Drift Simulation,myq-camera,camera,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,myq-camera,camera,recon,host-disc-udp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,malware,mirai-syn-flood,33,32,33,True,2.0,1.0,0.9696969696969697
+Drift Simulation,edge1,edge-infrastructure,malware,mirai-syn-flood,188,187,188,True,2.0,1.0,0.9946808510638298
+Drift Simulation,myq-camera,camera,recon,host-disc-arp-ping,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Drift Simulation,steam-sensor,sensor,malware,mirai-udp-flood,29,28,38,True,11.0,0.7631578947368421,0.7368421052631579
+Drift Simulation,edge1,edge-infrastructure,malware,mirai-udp-flood,214,213,214,True,2.0,1.0,0.9953271028037384
+Drift Simulation,wisenet-camera,camera,malware,mirai-syn-flood,14,13,22,True,10.0,0.6363636363636364,0.5909090909090909
+Drift Simulation,ap,network-device,malware,mirai-udp-flood,26,25,26,True,2.0,1.0,0.9615384615384616
+Drift Simulation,weather-sensor,sensor,malware,mirai-syn-flood,17,16,18,True,3.0,0.9444444444444444,0.8888888888888888
+Drift Simulation,plug-proximity,smart-plug,recon,host-disc-tcp-syn-stealth,9,9,16,True,2.0,0.5625,0.5625
+Drift Simulation,steam-sensor,sensor,malware,mirai-syn-flood,17,16,18,True,3.0,0.9444444444444444,0.8888888888888888
+Drift Simulation,yi-camera,camera,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,switch,network-device,recon,host-disc-tcp-syn-ping,12,11,12,True,2.0,1.0,0.9166666666666666
+Drift Simulation,weather-sensor,sensor,recon,host-disc-tcp-syn-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,water-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,soil-sensor,sensor,recon,host-disc-tcp-syn-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,host-disc-tcp-syn-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,sound-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,vibration-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,ultrasonic-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,yi-camera,camera,recon,host-disc-tcp-syn-ping,16,16,17,True,2.0,0.9411764705882353,0.9411764705882353
+Drift Simulation,plug-mqtt,smart-plug,recon,host-disc-tcp-syn-ping,3,2,9,True,4.0,0.3333333333333333,0.2222222222222222
+Drift Simulation,plug-rfid,smart-plug,recon,host-disc-tcp-syn-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-edge1,smart-plug,recon,host-disc-tcp-syn-ping,2,2,8,True,5.0,0.25,0.25
+Drift Simulation,plug-motion,smart-plug,recon,host-disc-tcp-syn-ping,2,2,8,True,6.0,0.25,0.25
+Drift Simulation,plug-flame,smart-plug,recon,host-disc-tcp-syn-ping,1,0,8,False,,0.125,0.0
+Drift Simulation,plug-proximity,smart-plug,recon,host-disc-tcp-syn-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-vibration,smart-plug,recon,host-disc-tcp-syn-ping,2,2,9,True,5.0,0.2222222222222222,0.2222222222222222
+Drift Simulation,plug-flame,smart-plug,recon,host-disc-tcp-syn-stealth,11,10,16,True,2.0,0.6875,0.625
+Drift Simulation,yi-camera,camera,malware,mirai-udp-flood,16,14,26,True,13.0,0.6153846153846154,0.5384615384615384
+Drift Simulation,wisenet-camera,camera,malware,mirai-udp-flood,14,12,26,True,15.0,0.5384615384615384,0.46153846153846156
+Drift Simulation,plug-mqtt,smart-plug,recon,port-scan,8,8,17,True,2.0,0.47058823529411764,0.47058823529411764
+Drift Simulation,weather-sensor,sensor,malware,mirai-udp-flood,21,20,23,True,4.0,0.9130434782608695,0.8695652173913043
+Drift Simulation,yi-camera,camera,malware,mirai-syn-flood,16,15,21,True,5.0,0.7619047619047619,0.7142857142857143
+Drift Simulation,plug-vibration,smart-plug,recon,host-disc-tcp-syn-stealth,8,8,17,True,2.0,0.47058823529411764,0.47058823529411764
+Drift Simulation,yi-camera,camera,recon,host-disc-udp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,plug-edge1,smart-plug,recon,host-disc-arp-ping,9,9,17,True,2.0,0.5294117647058824,0.5294117647058824
+Drift Simulation,switch,network-device,recon,host-disc-tcp-syn-stealth,13,12,13,True,2.0,1.0,0.9230769230769231
+Drift Simulation,weather-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,water-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,soil-sensor,sensor,recon,host-disc-tcp-syn-stealth,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,sound-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,vibration-sensor,sensor,recon,host-disc-tcp-syn-stealth,14,13,17,True,2.0,0.8235294117647058,0.7647058823529411
+Drift Simulation,ultrasonic-sensor,sensor,recon,host-disc-tcp-syn-stealth,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,yi-camera,camera,recon,host-disc-tcp-syn-stealth,14,13,17,True,2.0,0.8235294117647058,0.7647058823529411
+Drift Simulation,plug-mqtt,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-rfid,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,7,False,,0.0,0.0
+Drift Simulation,plug-edge1,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-motion,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,8,False,,0.0,0.0
+Drift Simulation,yi-camera,camera,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,switch,network-device,recon,host-disc-arp-ping,10,9,10,True,2.0,1.0,0.9
+Drift Simulation,weather-sensor,sensor,recon,host-disc-arp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,water-sensor,sensor,recon,host-disc-arp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,soil-sensor,sensor,recon,host-disc-arp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,sound-sensor,sensor,recon,host-disc-arp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,vibration-sensor,sensor,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,ultrasonic-sensor,sensor,recon,host-disc-arp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,plug-mqtt,smart-plug,recon,host-disc-arp-ping,1,0,8,False,,0.125,0.0
+Drift Simulation,plug-rfid,smart-plug,recon,host-disc-arp-ping,9,8,17,True,10.0,0.5294117647058824,0.47058823529411764
+Drift Simulation,plug-motion,smart-plug,recon,host-disc-arp-ping,7,6,16,True,11.0,0.4375,0.375
+Drift Simulation,plug-flame,smart-plug,recon,host-disc-arp-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-proximity,smart-plug,recon,host-disc-arp-ping,0,0,7,False,,0.0,0.0
+Drift Simulation,plug-vibration,smart-plug,recon,host-disc-arp-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,edge1,edge-infrastructure,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,switch,network-device,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ap,network-device,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,weather-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,water-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,soil-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,os-scan,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,sound-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,vibration-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,ultrasonic-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,yi-camera,camera,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,myq-camera,camera,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,wisenet-camera,camera,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,plug-mqtt,smart-plug,recon,os-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-rfid,smart-plug,recon,os-scan,10,9,17,True,9.0,0.5882352941176471,0.5294117647058824
+Drift Simulation,plug-edge1,smart-plug,recon,os-scan,9,8,18,True,11.0,0.5,0.4444444444444444
+Drift Simulation,plug-motion,smart-plug,recon,os-scan,3,2,18,True,17.0,0.16666666666666666,0.1111111111111111
+Drift Simulation,plug-flame,smart-plug,recon,os-scan,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,plug-proximity,smart-plug,recon,os-scan,0,0,7,False,,0.0,0.0
+Drift Simulation,plug-vibration,smart-plug,recon,os-scan,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-rfid,smart-plug,recon,host-disc-tcp-ack-ping,8,8,17,True,2.0,0.47058823529411764,0.47058823529411764
+Drift Simulation,edge1,edge-infrastructure,recon,vuln-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,switch,network-device,recon,vuln-scan,15,14,15,True,2.0,1.0,0.9333333333333333
+Drift Simulation,ap,network-device,recon,vuln-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,weather-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,water-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,soil-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,sound-sensor,sensor,recon,vuln-scan,9,8,18,True,11.0,0.5,0.4444444444444444
+Drift Simulation,vibration-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,ultrasonic-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,yi-camera,camera,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,myq-camera,camera,recon,vuln-scan,10,10,17,True,2.0,0.5882352941176471,0.5882352941176471
+Drift Simulation,wisenet-camera,camera,recon,vuln-scan,15,14,18,True,2.0,0.8333333333333334,0.7777777777777778
+Drift Simulation,plug-mqtt,smart-plug,recon,vuln-scan,7,6,8,True,3.0,0.875,0.75
+Drift Simulation,plug-rfid,smart-plug,recon,vuln-scan,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,plug-edge1,smart-plug,recon,vuln-scan,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,plug-motion,smart-plug,recon,vuln-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-flame,smart-plug,recon,vuln-scan,5,4,17,True,14.0,0.29411764705882354,0.23529411764705882
+Drift Simulation,plug-proximity,smart-plug,recon,vuln-scan,2,1,17,True,17.0,0.11764705882352941,0.058823529411764705
+Drift Simulation,plug-vibration,smart-plug,recon,vuln-scan,0,0,18,False,,0.0,0.0
+Drift Simulation,myq-camera,camera,recon,host-disc-tcp-ack-ping,15,15,17,True,2.0,0.8823529411764706,0.8823529411764706
+Drift Simulation,switch,network-device,recon,port-scan,14,13,14,True,2.0,1.0,0.9285714285714286
+Drift Simulation,weather-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,water-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,soil-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,port-scan,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,sound-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,vibration-sensor,sensor,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Drift Simulation,ultrasonic-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,plug-rfid,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-edge1,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-motion,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-flame,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-proximity,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-vibration,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Drift Simulation,edge1,edge-infrastructure,web,xss,34,33,34,True,2.0,1.0,0.9705882352941176
+Drift Simulation,switch,network-device,recon,host-disc-udp-ping,14,13,14,True,2.0,1.0,0.9285714285714286
+Drift Simulation,weather-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,water-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,soil-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,host-disc-udp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,sound-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,vibration-sensor,sensor,recon,host-disc-udp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,ultrasonic-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,plug-mqtt,smart-plug,recon,host-disc-udp-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-rfid,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Drift Simulation,plug-edge1,smart-plug,recon,host-disc-udp-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-motion,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Drift Simulation,plug-flame,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Drift Simulation,plug-proximity,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Drift Simulation,plug-vibration,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Drift Simulation,switch,network-device,recon,host-disc-tcp-ack-ping,15,14,15,True,2.0,1.0,0.9333333333333333
+Drift Simulation,weather-sensor,sensor,recon,host-disc-tcp-ack-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,water-sensor,sensor,recon,host-disc-tcp-ack-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Drift Simulation,soil-sensor,sensor,recon,host-disc-tcp-ack-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,steam-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,sound-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,vibration-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,ultrasonic-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Drift Simulation,yi-camera,camera,recon,host-disc-tcp-ack-ping,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Drift Simulation,plug-mqtt,smart-plug,recon,host-disc-tcp-ack-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-edge1,smart-plug,recon,host-disc-tcp-ack-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-motion,smart-plug,recon,host-disc-tcp-ack-ping,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-flame,smart-plug,recon,host-disc-tcp-ack-ping,0,0,9,False,,0.0,0.0
+Drift Simulation,plug-proximity,smart-plug,recon,host-disc-tcp-ack-ping,0,0,9,False,,0.0,0.0
+Drift Simulation,plug-vibration,smart-plug,recon,host-disc-tcp-ack-ping,0,0,9,False,,0.0,0.0
+Drift Simulation,edge1,edge-infrastructure,web,command-injection,158,157,158,True,2.0,1.0,0.9936708860759493
+Drift Simulation,soil-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,slowloris-port-8000,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,web,sql-injection,60,59,60,True,2.0,1.0,0.9833333333333333
+Drift Simulation,edge1,edge-infrastructure,bruteforce,dictionary-telnet,47,46,47,True,2.0,1.0,0.9787234042553191
+Drift Simulation,wisenet-camera,camera,ddos,slowloris-port-554,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,ap,network-device,bruteforce,dictionary-telnet,47,46,47,True,2.0,1.0,0.9787234042553191
+Drift Simulation,yi-camera,camera,mitm,arp-spoofing,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,switch,network-device,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,web,backdoor-upload,32,31,32,True,2.0,1.0,0.96875
+Drift Simulation,edge1,edge-infrastructure,bruteforce,dictionary-ssh,47,46,47,True,2.0,1.0,0.9787234042553191
+Drift Simulation,wisenet-camera,camera,dos,http-flood-port-554,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,edge1,edge-infrastructure,ddos,slowloris-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,myq-camera,camera,mitm,arp-spoofing,7,6,9,True,4.0,0.7777777777777778,0.6666666666666666
+Drift Simulation,ultrasonic-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Drift Simulation,edge1,edge-infrastructure,dos,slowloris-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,yi-camera,camera,ddos,slowloris-port-80,6,6,9,True,3.0,0.6666666666666666,0.6666666666666666
+Drift Simulation,edge1,edge-infrastructure,recon,ping-sweep,8,7,8,True,2.0,1.0,0.875
+Drift Simulation,switch,network-device,recon,ping-sweep,7,6,7,True,2.0,1.0,0.8571428571428571
+Drift Simulation,ap,network-device,recon,ping-sweep,7,6,7,True,2.0,1.0,0.8571428571428571
+Drift Simulation,weather-sensor,sensor,recon,ping-sweep,7,7,9,True,3.0,0.7777777777777778,0.7777777777777778
+Drift Simulation,water-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Drift Simulation,soil-sensor,sensor,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Drift Simulation,steam-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Drift Simulation,sound-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Drift Simulation,vibration-sensor,sensor,recon,ping-sweep,0,0,7,False,,0.0,0.0
+Drift Simulation,ultrasonic-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Drift Simulation,yi-camera,camera,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Drift Simulation,myq-camera,camera,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Drift Simulation,wisenet-camera,camera,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Drift Simulation,plug-mqtt,smart-plug,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-rfid,smart-plug,recon,ping-sweep,1,0,8,False,,0.125,0.0
+Drift Simulation,plug-edge1,smart-plug,recon,ping-sweep,2,2,8,True,4.0,0.25,0.25
+Drift Simulation,plug-motion,smart-plug,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Drift Simulation,plug-flame,smart-plug,recon,ping-sweep,2,2,8,True,7.0,0.25,0.25
+Drift Simulation,plug-proximity,smart-plug,recon,ping-sweep,2,2,8,True,5.0,0.25,0.25
+Drift Simulation,plug-vibration,smart-plug,recon,ping-sweep,2,2,8,True,3.0,0.25,0.25
+Drift Simulation,edge1,edge-infrastructure,dos,slowloris-port-8000,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,wisenet-camera,camera,dos,slowloris-port-554,7,7,9,True,2.0,0.7777777777777778,0.7777777777777778
+Drift Simulation,wisenet-camera,camera,ddos,slowloris-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,switch,network-device,bruteforce,dictionary-ssh,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,ap,network-device,bruteforce,dictionary-ssh,18,17,18,True,2.0,1.0,0.9444444444444444
+Drift Simulation,wisenet-camera,camera,dos,slowloris-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Drift Simulation,steam-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Drift Simulation,sound-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Drift Simulation,water-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Drift Simulation,ultrasonic-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Drift Simulation,vibration-sensor,sensor,mitm,arp-spoofing,0,0,17,False,,0.0,0.0
+Drift Simulation,weather-sensor,sensor,mitm,impersonation,1,0,8,False,,0.125,0.0
+Drift Simulation,soil-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Drift Simulation,sound-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Drift Simulation,soil-sensor,sensor,mitm,arp-spoofing,2,2,18,True,9.0,0.1111111111111111,0.1111111111111111
+Drift Simulation,steam-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Drift Simulation,weather-sensor,sensor,mitm,arp-spoofing,4,0,18,False,,0.2222222222222222,0.0
+Drift Simulation,water-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Drift Simulation,vibration-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Drift Simulation,wisenet-camera,camera,dos,http-flood-port-443,6,7,9,True,2.0,0.6666666666666666,0.7777777777777778
+Drift Simulation,yi-camera,camera,dos,slowloris-port-80,0,0,9,False,,0.0,0.0
+Drift Simulation,edge1,edge-infrastructure,mitm,arp-spoofing,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,udp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,udp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,ddos,synonymousip-flood-port-80,2,0,9,False,,0.2222222222222222,0.0
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,udp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,switch,network-device,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,myq-camera,camera,mitm,ip-spoofing,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,synonymousip-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,mitm,ip-spoofing,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,syn-flood-port-22,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,dos,rst-fin-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,synonymousip-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,rst-fin-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,push-ack-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,tcp-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,syn-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,syn-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,tcp-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,tcp-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,syn-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,syn-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,dos,icmp-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,push-ack-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,syn-flood-port-557,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,tcp-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,tcp-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,syn-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,tcp-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,tcp-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,ap,network-device,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,syn-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,syn-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,switch,network-device,dos,tcp-flood-port-23,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,tcp-flood-port-80,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,tcp-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,tcp-flood-port-22,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,switch,network-device,dos,syn-flood-port-23,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,ap,network-device,dos,tcp-flood-port-443,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,syn-flood-port-554,4,3,4,True,2.0,1.0,0.75
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,dos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,udp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,ack-frag-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,ack-frag-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,dos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,icmp-frag-flood,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,web,sql-injection-blind,158,157,158,True,2.0,1.0,0.9936708860759493
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,dos,http-flood-port-9595,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,host-disc-udp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,host-disc-tcp-syn-stealth,14,13,17,True,2.0,0.8235294117647058,0.7647058823529411
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,host-disc-arp-ping,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,host-disc-tcp-syn-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,host-disc-tcp-ack-ping,16,16,17,True,2.0,0.9411764705882353,0.9411764705882353
+Adaptive Fisher-Weighted Z,ap,network-device,recon,host-disc-udp-ping,16,16,17,True,2.0,0.9411764705882353,0.9411764705882353
+Adaptive Fisher-Weighted Z,ap,network-device,recon,host-disc-arp-ping,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Adaptive Fisher-Weighted Z,ap,network-device,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,ap,network-device,recon,host-disc-tcp-syn-stealth,14,13,17,True,2.0,0.8235294117647058,0.7647058823529411
+Adaptive Fisher-Weighted Z,ap,network-device,recon,host-disc-tcp-syn-ping,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Adaptive Fisher-Weighted Z,ap,network-device,recon,host-disc-tcp-ack-ping,15,15,17,True,2.0,0.8823529411764706,0.8823529411764706
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,host-disc-tcp-ack-ping,16,16,18,True,2.0,0.8888888888888888,0.8888888888888888
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,water-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,syn-flood-port-80,3,3,4,True,2.0,0.75,0.75
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,host-disc-tcp-syn-stealth,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,host-disc-tcp-syn-ping,16,16,17,True,2.0,0.9411764705882353,0.9411764705882353
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,host-disc-udp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,ap,network-device,malware,mirai-syn-flood,10,9,33,True,25.0,0.30303030303030304,0.2727272727272727
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,malware,mirai-syn-flood,169,168,188,True,8.0,0.898936170212766,0.8936170212765957
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,host-disc-arp-ping,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,malware,mirai-udp-flood,29,28,38,True,11.0,0.7631578947368421,0.7368421052631579
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,malware,mirai-udp-flood,196,199,214,True,10.0,0.9158878504672897,0.9299065420560748
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,malware,mirai-syn-flood,14,13,22,True,10.0,0.6363636363636364,0.5909090909090909
+Adaptive Fisher-Weighted Z,ap,network-device,malware,mirai-udp-flood,9,9,26,True,17.0,0.34615384615384615,0.34615384615384615
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,malware,mirai-syn-flood,16,15,18,True,4.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,host-disc-tcp-syn-stealth,9,9,16,True,2.0,0.5625,0.5625
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,malware,mirai-syn-flood,17,16,18,True,3.0,0.9444444444444444,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,switch,network-device,recon,host-disc-tcp-syn-ping,12,11,12,True,2.0,1.0,0.9166666666666666
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,host-disc-tcp-syn-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,host-disc-tcp-syn-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,host-disc-tcp-syn-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,host-disc-tcp-syn-ping,16,16,17,True,2.0,0.9411764705882353,0.9411764705882353
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,host-disc-tcp-syn-ping,3,2,9,True,4.0,0.3333333333333333,0.2222222222222222
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,host-disc-tcp-syn-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,host-disc-tcp-syn-ping,1,0,8,False,,0.125,0.0
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,host-disc-tcp-syn-ping,2,2,8,True,6.0,0.25,0.25
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,host-disc-tcp-syn-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,host-disc-tcp-syn-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,host-disc-tcp-syn-ping,1,0,9,False,,0.1111111111111111,0.0
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,host-disc-tcp-syn-stealth,11,10,16,True,2.0,0.6875,0.625
+Adaptive Fisher-Weighted Z,yi-camera,camera,malware,mirai-udp-flood,16,14,26,True,13.0,0.6153846153846154,0.5384615384615384
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,malware,mirai-udp-flood,21,21,26,True,6.0,0.8076923076923077,0.8076923076923077
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,port-scan,8,8,17,True,2.0,0.47058823529411764,0.47058823529411764
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,malware,mirai-udp-flood,21,20,23,True,4.0,0.9130434782608695,0.8695652173913043
+Adaptive Fisher-Weighted Z,yi-camera,camera,malware,mirai-syn-flood,16,15,21,True,5.0,0.7619047619047619,0.7142857142857143
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,host-disc-tcp-syn-stealth,8,8,17,True,2.0,0.47058823529411764,0.47058823529411764
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,host-disc-udp-ping,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,host-disc-arp-ping,9,9,17,True,2.0,0.5294117647058824,0.5294117647058824
+Adaptive Fisher-Weighted Z,switch,network-device,recon,host-disc-tcp-syn-stealth,11,10,13,True,4.0,0.8461538461538461,0.7692307692307693
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,host-disc-tcp-syn-stealth,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,host-disc-tcp-syn-stealth,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,host-disc-tcp-syn-stealth,14,13,17,True,2.0,0.8235294117647058,0.7647058823529411
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,host-disc-tcp-syn-stealth,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,host-disc-tcp-syn-stealth,14,13,17,True,2.0,0.8235294117647058,0.7647058823529411
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,host-disc-tcp-syn-stealth,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,switch,network-device,recon,host-disc-arp-ping,10,9,10,True,2.0,1.0,0.9
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,host-disc-arp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,host-disc-arp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,host-disc-arp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,host-disc-arp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,host-disc-arp-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,host-disc-arp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,host-disc-arp-ping,1,0,8,False,,0.125,0.0
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,host-disc-arp-ping,9,8,17,True,10.0,0.5294117647058824,0.47058823529411764
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,host-disc-arp-ping,7,6,16,True,11.0,0.4375,0.375
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,host-disc-arp-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,host-disc-arp-ping,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,host-disc-arp-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,switch,network-device,recon,os-scan,16,16,17,True,2.0,0.9411764705882353,0.9411764705882353
+Adaptive Fisher-Weighted Z,ap,network-device,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,os-scan,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,os-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,os-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,os-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,os-scan,10,9,17,True,9.0,0.5882352941176471,0.5294117647058824
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,os-scan,9,8,18,True,11.0,0.5,0.4444444444444444
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,os-scan,3,2,18,True,17.0,0.16666666666666666,0.1111111111111111
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,os-scan,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,os-scan,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,os-scan,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,host-disc-tcp-ack-ping,8,8,17,True,2.0,0.47058823529411764,0.47058823529411764
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,vuln-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,switch,network-device,recon,vuln-scan,11,11,15,True,2.0,0.7333333333333333,0.7333333333333333
+Adaptive Fisher-Weighted Z,ap,network-device,recon,vuln-scan,9,9,17,True,2.0,0.5294117647058824,0.5294117647058824
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,vuln-scan,9,8,18,True,11.0,0.5,0.4444444444444444
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,vuln-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,vuln-scan,10,10,17,True,2.0,0.5882352941176471,0.5882352941176471
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,vuln-scan,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,vuln-scan,7,6,8,True,3.0,0.875,0.75
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,vuln-scan,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,vuln-scan,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,vuln-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,vuln-scan,5,4,17,True,14.0,0.29411764705882354,0.23529411764705882
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,vuln-scan,2,1,17,True,17.0,0.11764705882352941,0.058823529411764705
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,vuln-scan,0,0,18,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,host-disc-tcp-ack-ping,15,15,17,True,2.0,0.8823529411764706,0.8823529411764706
+Adaptive Fisher-Weighted Z,switch,network-device,recon,port-scan,14,13,14,True,2.0,1.0,0.9285714285714286
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,port-scan,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,port-scan,17,16,17,True,2.0,1.0,0.9411764705882353
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,port-scan,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,port-scan,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,web,xss,34,33,34,True,2.0,1.0,0.9705882352941176
+Adaptive Fisher-Weighted Z,switch,network-device,recon,host-disc-udp-ping,11,10,14,True,5.0,0.7857142857142857,0.7142857142857143
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,host-disc-udp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,host-disc-udp-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,host-disc-udp-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,host-disc-udp-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,host-disc-udp-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,host-disc-udp-ping,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,switch,network-device,recon,host-disc-tcp-ack-ping,14,14,15,True,2.0,0.9333333333333333,0.9333333333333333
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,host-disc-tcp-ack-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,host-disc-tcp-ack-ping,17,17,18,True,2.0,0.9444444444444444,0.9444444444444444
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,host-disc-tcp-ack-ping,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,host-disc-tcp-ack-ping,16,15,18,True,2.0,0.8888888888888888,0.8333333333333334
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,host-disc-tcp-ack-ping,15,14,17,True,2.0,0.8823529411764706,0.8235294117647058
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,host-disc-tcp-ack-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,host-disc-tcp-ack-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,host-disc-tcp-ack-ping,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,host-disc-tcp-ack-ping,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,host-disc-tcp-ack-ping,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,host-disc-tcp-ack-ping,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,web,command-injection,17,13,158,True,9.0,0.10759493670886076,0.08227848101265822
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,ddos,http-flood-port-1883,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,slowloris-port-8000,6,6,9,True,3.0,0.6666666666666666,0.6666666666666666
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,web,sql-injection,13,12,60,True,17.0,0.21666666666666667,0.2
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,bruteforce,dictionary-telnet,35,41,47,True,3.0,0.7446808510638298,0.8723404255319149
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,slowloris-port-554,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,ddos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,ap,network-device,bruteforce,dictionary-telnet,46,45,47,True,3.0,0.9787234042553191,0.9574468085106383
+Adaptive Fisher-Weighted Z,yi-camera,camera,mitm,arp-spoofing,8,7,8,True,2.0,1.0,0.875
+Adaptive Fisher-Weighted Z,switch,network-device,dos,http-flood-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,web,backdoor-upload,23,22,32,True,2.0,0.71875,0.6875
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,bruteforce,dictionary-ssh,0,0,47,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,http-flood-port-554,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,ddos,slowloris-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,myq-camera,camera,mitm,arp-spoofing,7,6,9,True,4.0,0.7777777777777778,0.6666666666666666
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,slowloris-port-80,8,8,9,True,2.0,0.8888888888888888,0.8888888888888888
+Adaptive Fisher-Weighted Z,yi-camera,camera,ddos,slowloris-port-80,6,6,9,True,3.0,0.6666666666666666,0.6666666666666666
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,switch,network-device,recon,ping-sweep,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,ap,network-device,recon,ping-sweep,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,water-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,recon,ping-sweep,0,0,7,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,yi-camera,camera,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,myq-camera,camera,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,recon,ping-sweep,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-mqtt,smart-plug,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-rfid,smart-plug,recon,ping-sweep,1,0,8,False,,0.125,0.0
+Adaptive Fisher-Weighted Z,plug-edge1,smart-plug,recon,ping-sweep,2,2,8,True,4.0,0.25,0.25
+Adaptive Fisher-Weighted Z,plug-motion,smart-plug,recon,ping-sweep,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,plug-flame,smart-plug,recon,ping-sweep,1,0,8,False,,0.125,0.0
+Adaptive Fisher-Weighted Z,plug-proximity,smart-plug,recon,ping-sweep,2,2,8,True,5.0,0.25,0.25
+Adaptive Fisher-Weighted Z,plug-vibration,smart-plug,recon,ping-sweep,2,2,8,True,3.0,0.25,0.25
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,dos,slowloris-port-8000,5,5,9,True,3.0,0.5555555555555556,0.5555555555555556
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,slowloris-port-554,7,7,9,True,2.0,0.7777777777777778,0.7777777777777778
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,ddos,slowloris-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,switch,network-device,bruteforce,dictionary-ssh,18,17,18,True,2.0,1.0,0.9444444444444444
+Adaptive Fisher-Weighted Z,ap,network-device,bruteforce,dictionary-ssh,0,0,18,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,slowloris-port-80,9,8,9,True,2.0,1.0,0.8888888888888888
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,water-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,ultrasonic-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,mitm,arp-spoofing,0,0,17,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,sound-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,soil-sensor,sensor,mitm,arp-spoofing,2,2,18,True,9.0,0.1111111111111111,0.1111111111111111
+Adaptive Fisher-Weighted Z,steam-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,weather-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,water-sensor,sensor,mitm,arp-spoofing,0,0,18,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,vibration-sensor,sensor,mitm,impersonation,0,0,8,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,wisenet-camera,camera,dos,http-flood-port-443,6,7,9,True,2.0,0.6666666666666666,0.7777777777777778
+Adaptive Fisher-Weighted Z,yi-camera,camera,dos,slowloris-port-80,0,0,9,False,,0.0,0.0
+Adaptive Fisher-Weighted Z,edge1,edge-infrastructure,mitm,arp-spoofing,0,0,8,False,,0.0,0.0

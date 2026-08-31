@@ -1,0 +1,5 @@
+storage_scope,items,bytes_per_item,total_bytes,details
+general profile statistical state,5,608,3040,25 means + 25 standard deviations + 25 Fisher weights + 1 threshold
+client profile statistical state,20,608,12160,25 means + 25 standard deviations + 25 Fisher weights + 1 threshold
+stable rolling-statistics state,20,408,8160,count + 25 running means + 25 running M2 values; stable batch closes at a PSO-selected size of 16-128 windows across device types
+peak drift rolling-statistics state,20,792,15840,rolling statistics + up to 48 scalar drift scores; no complete feature vectors retained

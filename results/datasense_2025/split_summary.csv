@@ -1,0 +1,9 @@
+split,rows
+general profile training,4518
+score-configuration validation,666
+known-device baseline test,1296
+held-out enrollment,1440
+held-out PSO/client tuning,1440
+held-out final benign stream,4320
+attack tuning,1598
+untouched attack test,6858

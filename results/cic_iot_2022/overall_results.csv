@@ -1,0 +1,4 @@
+dataset,experiment,benign_windows,fpr,detection_rate
+CIC IoT 2022,Baseline,26969,0.005784419147910564,
+CIC IoT 2022,Drift Simulation,56973,0.3708072244747512,
+CIC IoT 2022,Adaptive Fisher-Weighted Z,56973,0.00015796956453056711,

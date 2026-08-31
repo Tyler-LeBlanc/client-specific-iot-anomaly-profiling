@@ -1,0 +1,10 @@
+model,device_type,false_flags,total_windows,fpr
+Baseline,Camera,143,20860,0.006855225311601151
+Baseline,Home Automation,11,3593,0.0030615084887280824
+Baseline,Audio,2,2516,0.000794912559618442
+Drift Simulation,Home Automation,14,1117,0.012533572068039392
+Drift Simulation,Camera,19143,52134,0.36718839912533086
+Drift Simulation,Audio,1969,3722,0.5290166577109081
+Adaptive Fisher-Weighted Z,Home Automation,0,1117,0.0
+Adaptive Fisher-Weighted Z,Camera,1,52134,1.91813403920666e-05
+Adaptive Fisher-Weighted Z,Audio,8,3722,0.0021493820526598604

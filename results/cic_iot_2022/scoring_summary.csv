@@ -1,0 +1,4 @@
+device_type,scoring_method,weight_source,training_rows,threshold,heldout_tuning_fpr
+Camera,Fisher-Weighted Z,held-out benign enrollment (domain-shift Fisher),83429,1.3188295369609693,0.3838052486187845
+Home Automation,Fisher-Weighted Z,held-out benign enrollment (domain-shift Fisher),14357,1.5337468350949957,0.053763440860215055
+Audio,Fisher-Weighted Z,held-out benign enrollment (domain-shift Fisher),10057,1.1327252946256494,0.5338709677419354
